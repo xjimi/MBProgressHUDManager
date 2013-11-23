@@ -7,6 +7,10 @@ Easier to use MBProgressHUD
 
 Just copy the files in `"MBProgressHUDManager/..."` into your project.
 
+## Usage
+
+See [MBProgressHUDManager.h](MBProgressHUDManager/MBProgressHUDManager.h) for the complete API.
+
 ### Example usage
 
 ```  objc
@@ -23,8 +27,6 @@ Just copy the files in `"MBProgressHUDManager/..."` into your project.
         
     }];
 }
-
-
 
 ```
 ## Demos
