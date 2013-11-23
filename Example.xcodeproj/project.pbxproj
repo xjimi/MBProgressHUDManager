@@ -19,6 +19,15 @@
 		BA0B07751840B69A00B048A7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA0B075D1840B69A00B048A7 /* UIKit.framework */; };
 		BA0B077D1840B69A00B048A7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BA0B077B1840B69A00B048A7 /* InfoPlist.strings */; };
 		BA0B077F1840B69A00B048A7 /* ExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BA0B077E1840B69A00B048A7 /* ExampleTests.m */; };
+		BA0B078C1840B70300B048A7 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = BA0B078B1840B70300B048A7 /* MBProgressHUD.m */; };
+		BA0B078F1840B73300B048A7 /* MBProgressHUDManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BA0B078E1840B73300B048A7 /* MBProgressHUDManager.m */; };
+		BA0B07971840B7BC00B048A7 /* 37x-Checkmark.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0B07911840B7BC00B048A7 /* 37x-Checkmark.png */; };
+		BA0B07981840B7BC00B048A7 /* 37x-Checkmark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0B07921840B7BC00B048A7 /* 37x-Checkmark@2x.png */; };
+		BA0B07991840B7BC00B048A7 /* 37x-Error.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0B07931840B7BC00B048A7 /* 37x-Error.png */; };
+		BA0B079A1840B7BC00B048A7 /* 37x-Error@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0B07941840B7BC00B048A7 /* 37x-Error@2x.png */; };
+		BA0B079B1840B7BC00B048A7 /* 37x-success.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0B07951840B7BC00B048A7 /* 37x-success.png */; };
+		BA0B079C1840B7BC00B048A7 /* 37x-success@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0B07961840B7BC00B048A7 /* 37x-success@2x.png */; };
+		BA0B079F1840B7D300B048A7 /* DemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA0B079E1840B7D300B048A7 /* DemoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +57,18 @@
 		BA0B077A1840B69A00B048A7 /* ExampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ExampleTests-Info.plist"; sourceTree = "<group>"; };
 		BA0B077C1840B69A00B048A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BA0B077E1840B69A00B048A7 /* ExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExampleTests.m; sourceTree = "<group>"; };
+		BA0B078A1840B70300B048A7 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		BA0B078B1840B70300B048A7 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		BA0B078D1840B73300B048A7 /* MBProgressHUDManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUDManager.h; sourceTree = "<group>"; };
+		BA0B078E1840B73300B048A7 /* MBProgressHUDManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUDManager.m; sourceTree = "<group>"; };
+		BA0B07911840B7BC00B048A7 /* 37x-Checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-Checkmark.png"; sourceTree = "<group>"; };
+		BA0B07921840B7BC00B048A7 /* 37x-Checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-Checkmark@2x.png"; sourceTree = "<group>"; };
+		BA0B07931840B7BC00B048A7 /* 37x-Error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-Error.png"; sourceTree = "<group>"; };
+		BA0B07941840B7BC00B048A7 /* 37x-Error@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-Error@2x.png"; sourceTree = "<group>"; };
+		BA0B07951840B7BC00B048A7 /* 37x-success.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-success.png"; sourceTree = "<group>"; };
+		BA0B07961840B7BC00B048A7 /* 37x-success@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-success@2x.png"; sourceTree = "<group>"; };
+		BA0B079D1840B7D300B048A7 /* DemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoViewController.h; sourceTree = "<group>"; };
+		BA0B079E1840B7D300B048A7 /* DemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,8 +128,12 @@
 		BA0B075F1840B69A00B048A7 /* Example */ = {
 			isa = PBXGroup;
 			children = (
+				BA0B07881840B6BB00B048A7 /* MBProgressHUDManager */,
+				BA0B07891840B6CE00B048A7 /* MBProgressHUD */,
 				BA0B07681840B69A00B048A7 /* AppDelegate.h */,
 				BA0B07691840B69A00B048A7 /* AppDelegate.m */,
+				BA0B079D1840B7D300B048A7 /* DemoViewController.h */,
+				BA0B079E1840B7D300B048A7 /* DemoViewController.m */,
 				BA0B076B1840B69A00B048A7 /* Images.xcassets */,
 				BA0B07601840B69A00B048A7 /* Supporting Files */,
 			);
@@ -142,6 +167,38 @@
 				BA0B077B1840B69A00B048A7 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BA0B07881840B6BB00B048A7 /* MBProgressHUDManager */ = {
+			isa = PBXGroup;
+			children = (
+				BA0B078D1840B73300B048A7 /* MBProgressHUDManager.h */,
+				BA0B078E1840B73300B048A7 /* MBProgressHUDManager.m */,
+				BA0B07901840B7BC00B048A7 /* Images */,
+			);
+			path = MBProgressHUDManager;
+			sourceTree = SOURCE_ROOT;
+		};
+		BA0B07891840B6CE00B048A7 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				BA0B078A1840B70300B048A7 /* MBProgressHUD.h */,
+				BA0B078B1840B70300B048A7 /* MBProgressHUD.m */,
+			);
+			path = MBProgressHUD;
+			sourceTree = SOURCE_ROOT;
+		};
+		BA0B07901840B7BC00B048A7 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				BA0B07911840B7BC00B048A7 /* 37x-Checkmark.png */,
+				BA0B07921840B7BC00B048A7 /* 37x-Checkmark@2x.png */,
+				BA0B07931840B7BC00B048A7 /* 37x-Error.png */,
+				BA0B07941840B7BC00B048A7 /* 37x-Error@2x.png */,
+				BA0B07951840B7BC00B048A7 /* 37x-success.png */,
+				BA0B07961840B7BC00B048A7 /* 37x-success@2x.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,8 +276,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA0B079A1840B7BC00B048A7 /* 37x-Error@2x.png in Resources */,
+				BA0B079B1840B7BC00B048A7 /* 37x-success.png in Resources */,
 				BA0B07641840B69A00B048A7 /* InfoPlist.strings in Resources */,
+				BA0B07991840B7BC00B048A7 /* 37x-Error.png in Resources */,
+				BA0B07981840B7BC00B048A7 /* 37x-Checkmark@2x.png in Resources */,
 				BA0B076C1840B69A00B048A7 /* Images.xcassets in Resources */,
+				BA0B07971840B7BC00B048A7 /* 37x-Checkmark.png in Resources */,
+				BA0B079C1840B7BC00B048A7 /* 37x-success@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +303,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA0B076A1840B69A00B048A7 /* AppDelegate.m in Sources */,
+				BA0B078F1840B73300B048A7 /* MBProgressHUDManager.m in Sources */,
+				BA0B078C1840B70300B048A7 /* MBProgressHUD.m in Sources */,
+				BA0B079F1840B7D300B048A7 /* DemoViewController.m in Sources */,
 				BA0B07661840B69A00B048A7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
