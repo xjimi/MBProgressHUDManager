@@ -3,6 +3,19 @@ MBProgressHUDManager
 
 Easier to use MBProgressHUD
 
+##Screenshot
+
+[![](screenshot/1-thumb.png)](screenshot/1.png)
+[![](screenshot/2-thumb.png)](screenshot/2.png)
+[![](screenshot/3-thumb.png)](screenshot/3.png)
+[![](screenshot/4-thumb.png)](screenshot/4.png)
+[![](screenshot/5-thumb.png)](screenshot/5.png)
+[![](screenshot/6-thumb.png)](screenshot/6.png)
+[![](screenshot/7-thumb.png)](screenshot/7.png)
+[![](screenshot/8-thumb.png)](screenshot/8.png)
+[![](screenshot/9-thumb.png)](screenshot/9.png)
+[![](screenshot/10-thumb.png)](screenshot/10.png)
+
 ## Installation
 
 Just copy the files in `"MBProgressHUDManager/..."` into your project.
