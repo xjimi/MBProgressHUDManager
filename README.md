@@ -52,7 +52,7 @@ See [MBProgressHUDManager.h](MBProgressHUDManager/MBProgressHUDManager.h) for th
 
 ## Creator
 
-[XJIMI](https://www.facebook.com/fn5128)
+[@hendrixwu](https://twitter.com/hendrixwu)
 
 # License
 
